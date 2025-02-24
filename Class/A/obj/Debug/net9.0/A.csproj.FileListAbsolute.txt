@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\bin\Debug\net9.0\A.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\bin\Debug\net9.0\A.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\bin\Debug\net9.0\A.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\bin\Debug\net9.0\A.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\bin\Debug\net9.0\A.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\refint\A.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\A.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\A\obj\Debug\net9.0\ref\A.dll

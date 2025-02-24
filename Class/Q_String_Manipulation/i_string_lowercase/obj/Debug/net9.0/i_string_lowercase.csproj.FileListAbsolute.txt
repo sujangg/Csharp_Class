@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\refint\i_string_lowercase.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\ref\i_string_lowercase.dll

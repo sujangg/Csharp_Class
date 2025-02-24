@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\refint\j_string_uppercase.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\ref\j_string_uppercase.dll

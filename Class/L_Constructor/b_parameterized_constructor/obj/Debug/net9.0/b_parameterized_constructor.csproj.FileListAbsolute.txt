@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\bin\Debug\net9.0\b_parameterized_constructor.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\bin\Debug\net9.0\b_parameterized_constructor.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\bin\Debug\net9.0\b_parameterized_constructor.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\bin\Debug\net9.0\b_parameterized_constructor.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\bin\Debug\net9.0\b_parameterized_constructor.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\refint\b_parameterized_constructor.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\b_parameterized_constructor.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\b_parameterized_constructor\obj\Debug\net9.0\ref\b_parameterized_constructor.dll

@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\bin\Debug\net9.0\d_lambda.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\bin\Debug\net9.0\d_lambda.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\bin\Debug\net9.0\d_lambda.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\bin\Debug\net9.0\d_lambda.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\bin\Debug\net9.0\d_lambda.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\refint\d_lambda.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\d_lambda.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\N\d_lambda\obj\Debug\net9.0\ref\d_lambda.dll

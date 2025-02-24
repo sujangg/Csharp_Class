@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\bin\Debug\net9.0\a_defualt_constructor.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\bin\Debug\net9.0\a_defualt_constructor.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\bin\Debug\net9.0\a_defualt_constructor.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\bin\Debug\net9.0\a_defualt_constructor.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\bin\Debug\net9.0\a_defualt_constructor.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\refint\a_defualt_constructor.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\a_defualt_constructor.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\a_defualt_constructor\obj\Debug\net9.0\ref\a_defualt_constructor.dll

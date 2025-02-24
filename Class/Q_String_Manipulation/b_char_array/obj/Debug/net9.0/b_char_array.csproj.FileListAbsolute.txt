@@ -1,0 +1,4 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.csproj.CoreCompileInputs.cache

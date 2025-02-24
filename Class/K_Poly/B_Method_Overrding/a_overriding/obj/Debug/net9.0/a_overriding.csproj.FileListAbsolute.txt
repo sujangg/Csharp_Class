@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\bin\Debug\net9.0\a_overriding.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\bin\Debug\net9.0\a_overriding.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\bin\Debug\net9.0\a_overriding.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\bin\Debug\net9.0\a_overriding.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\bin\Debug\net9.0\a_overriding.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\refint\a_overriding.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\a_overriding.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\K_Poly\B_Method_Overrding\a_overriding\obj\Debug\net9.0\ref\a_overriding.dll

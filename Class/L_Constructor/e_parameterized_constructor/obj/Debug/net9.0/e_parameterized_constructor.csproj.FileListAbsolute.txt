@@ -1,0 +1,4 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\e_parameterized_constructor\obj\Debug\net9.0\e_parameterized_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\e_parameterized_constructor\obj\Debug\net9.0\e_parameterized_constructor.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\e_parameterized_constructor\obj\Debug\net9.0\e_parameterized_constructor.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\L_Constructor\e_parameterized_constructor\obj\Debug\net9.0\e_parameterized_constructor.csproj.CoreCompileInputs.cache

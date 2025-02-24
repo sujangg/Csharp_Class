@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\refint\e_string_interpolation.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\Q_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\ref\e_string_interpolation.dll

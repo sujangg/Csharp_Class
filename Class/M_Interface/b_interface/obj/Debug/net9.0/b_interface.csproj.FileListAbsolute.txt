@@ -1,0 +1,14 @@
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.AssemblyInfo.cs
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\bin\Debug\net9.0\b_interface.exe
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\bin\Debug\net9.0\b_interface.deps.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\bin\Debug\net9.0\b_interface.runtimeconfig.json
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\bin\Debug\net9.0\b_interface.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\bin\Debug\net9.0\b_interface.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\refint\b_interface.dll
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\b_interface.genruntimeconfig.cache
+C:\Users\WELCOME\Documents\Visual Studio 2022\C#\Class\M_Interface\b_interface\obj\Debug\net9.0\ref\b_interface.dll
